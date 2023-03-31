@@ -3,4 +3,4 @@ title: Home
 layout: page
 ---
 
-# Simple JS Image Classifiers
+# Simple JS Image Classifiers2
